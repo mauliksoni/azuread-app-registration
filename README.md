@@ -10,6 +10,12 @@ Working with [users](https://docs.microsoft.com/en-us/graph/api/resources/users?
 
 # Go to Azure Portal and register an AD App
 
+Sign in to Azure Portal, in top search bar search for -> Azure Active Directory. That will bring up the Acive Directory blade.
+Click on App Registration -> New Registration
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step1.png)
+
+
+
 
 # Go to API Permissions and add Microsoft Graph Application Permission
 
