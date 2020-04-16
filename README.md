@@ -51,9 +51,9 @@ In order to use the Azure AD APP with Graph Explorer, we will need to generate t
 Note down your AD App's Client ID, Tenant ID and Secret. Download the postman collection and import into your postman client.
 Once Imported -> Go to Get AAD Token request and provide client_id and client_seacret as body parameters. Replace <<subscriptionid>> from URL with your tenant (subscription) ID.
 
-![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step12.png)
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/Step12.png)
 
 # Use PostMan to query user's info using Graph Explorer
 
-![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step13.png)
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/Step13.png)
 
