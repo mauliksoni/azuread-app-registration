@@ -39,6 +39,14 @@ once the admin grants the permission, you will see green check marks.
 ![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step8.png)
 
 # Generate Client Secret ( password ) 
+In order to use the Azure AD APP with Graph Explorer, we will need to generate the secret ( password ). Remember to note down the secret right after you generate it. once you navigate away from the secret blade, you will not be able to retrieve the secret.
+
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step9.png)
+
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step10.png)
+
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step11.png)
+
 
 
 # Use PostMan to requet Token
