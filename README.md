@@ -14,4 +14,21 @@ Working with [users](https://docs.microsoft.com/en-us/graph/api/resources/users?
 # Go to API Permissions and add Microsoft Graph Application Permission
 
 
-# 
+# Grant Admin Consent
+
+
+# Generate Client Secret ( password ) 
+
+
+# Use PostMan to requet Token
+
+
+# Use PostMan to query user's info using Graph Explorer
+
+
+# Watch the Video Tutorial instead
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
