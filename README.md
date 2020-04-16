@@ -35,6 +35,9 @@ For application to read user's profile, Azure AD Admin needs to grant the concen
 
 ![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step7.png)
 
+once the admin grants the permission, you will see green check marks.
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step8.png)
+
 # Generate Client Secret ( password ) 
 
 
