@@ -14,7 +14,8 @@ Sign in to Azure Portal, in top search bar search for -> Azure Active Directory.
 Click on App Registration -> New Registration
 ![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step1.png)
 
-
+Next, provide Name and select first option in supported account types.
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step2.png)
 
 
 # Go to API Permissions and add Microsoft Graph Application Permission
