@@ -14,15 +14,26 @@ Sign in to Azure Portal, in top search bar search for -> Azure Active Directory.
 Click on App Registration -> New Registration
 ![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step1.png)
 
-Next, provide Name and select first option in supported account types.
+Next, provide Name and select first option in supported account types. And then click Register
+
 ![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step2.png)
 
+Once registration is complete, you will be redirected to App home page
+
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step3.png)
 
 # Go to API Permissions and add Microsoft Graph Application Permission
 
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step4.png)
+
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step5.png)
+
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step6.png)
 
 # Grant Admin Consent
+For application to read user's profile, Azure AD Admin needs to grant the concent. Remember, you need to be an azure ad admin in order for the consent button to be enabled. You will see the button gray out if you do not have sufficient permission to grant the concent.
 
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step7.png)
 
 # Generate Client Secret ( password ) 
 
