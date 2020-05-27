@@ -16,7 +16,7 @@ Click on App Registration -> New Registration
 
 Next, provide Name and select first option in supported account types. And then click Register
 
-![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step2.png)
+![image](https://github.com/mauliksoni/azuread-app-registration/blob/master/img/step2a.png)
 
 Once registration is complete, you will be redirected to App home page
 
